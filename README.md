@@ -11,9 +11,9 @@
 </a>
 <br> <br>
 
-- 💻 Currently working at Blackboard so called Anthology, Inc.
+- 💻 Currently working at Anthology, Inc.
 - ✨ I'm passionate about learning new things!
-- 💬 Ask me anything related to Java, DSA or open-source, I'll try my best to help.
+- 💬 Ask me anything related to Java, System Design & open-source, I'll try my best to help.
 - 📫 How to reach me: You can connect with me on LinkedIn.
 
 
